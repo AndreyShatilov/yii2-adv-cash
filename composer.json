@@ -1,5 +1,5 @@
 {
-    "name": "yarcode/yii2-adv-cash",
+    "name": "AndreyShatilov/yii2-adv-cash",
     "description": "AdvCash component for Yii2 framework",
     "type": "yii2-extension",
     "license": "MIT",
@@ -14,8 +14,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/yarcode/yii2-adv-cash/issues",
-        "source": "https://github.com/yarcode/yii2-adv-cash"
+        "issues": "https://github.com/AndreyShatilov/yii2-adv-cash/issues",
+        "source": "https://github.com/AndreyShatilov/yii2-adv-cash"
     },
 
     "minimum-stability": "stable",
